@@ -50,10 +50,10 @@
     "chart.js": "^2.4.0"
   },
   "devDependencies": {
-    "@angular/common": "2.4.3",
+    "@angular/common": "2.4.3 || >=4.0.0",
     "@angular/compiler": "2.4.3",
     "@angular/compiler-cli": "2.4.3",
-    "@angular/core": "2.4.3",
+    "@angular/core": "2.4.3 || >=4.0.0",
     "@angular/forms": "2.4.3",
     "@angular/http": "2.4.3",
     "@angular/language-service": "2.4.3",
